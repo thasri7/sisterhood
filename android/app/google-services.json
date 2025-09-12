@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "769703360921",
+    "project_id": "sisterhood-app-6452c",
+    "storage_bucket": "sisterhood-app-6452c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:769703360921:android:6fcf8117f1eb1894df3b08",
+        "android_client_info": {
+          "package_name": "com.example.sisterhood_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "769703360921-7kdan97rbka71b9sg06fgh4m58hf4tfi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBigWwrMUsFkDasDJMzGAZfmFQBNsgOhog"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "769703360921-7kdan97rbka71b9sg06fgh4m58hf4tfi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "769703360921-ucllgqf444a6rhalmtmsevni86ir64eo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sisterhoodApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
