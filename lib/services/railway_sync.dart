@@ -8,8 +8,8 @@ import '../models/message_model.dart';
 import 'secure_database.dart';
 
 class RailwaySync {
-  // Replace with your Railway app URL
-  static const String baseUrl = 'https://your-app-name.railway.app';
+  // Railway server URL
+  static const String baseUrl = 'https://web-production-5a40.up.railway.app';
   
   // Check internet connectivity
   static Future<bool> isConnected() async {
